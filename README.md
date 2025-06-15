@@ -1,4 +1,4 @@
-# Trabalho AVL – Engenharia da Computação
+# Trabalho AVL – Orientação a Objetos – Engenharia de Computação
 
 Este projeto foi desenvolvido para a disciplina de **Análise e Projeto Orientado a Objetos I**, com foco na implementação de uma **Árvore AVL** em C#.
 

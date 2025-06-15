@@ -1,2 +1,21 @@
-# trabalho-arvore-avl
-Trabalho de Orientação a Objetos I - Árvore AVL
+# Trabalho AVL – Engenharia da Computação
+
+Este projeto foi desenvolvido para a disciplina de **Análise e Projeto Orientado a Objetos I**, com foco na implementação de uma **Árvore AVL** em C#.
+
+## Funcionalidades
+- Inserção de elementos
+- Remoção de elementos
+- Busca de elementos
+- Impressão em pré-ordem
+- Fatores de balanceamento
+- Altura da árvore
+
+## Como executar
+
+### Pré-requisitos:
+- [.NET SDK 6.0+](https://dotnet.microsoft.com/en-us/download)
+
+### Passos:
+1. Abra o terminal e execute:
+   ```bash
+   dotnet run
